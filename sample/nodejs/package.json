@@ -4,7 +4,7 @@
   "description": "whaleex-api-node",
   "main": "index.js",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.26.1",
     "eosjs-ecc": "^4.0.4",
     "form-data": "2.3.3",
     "fs-extra": "^7.0.1",
